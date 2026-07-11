@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,9D4EDD,5C2D91&height=210&section=header&text=Aryan%20Shinde&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%20Engineering%20R%26D%20%7C%20CAD%20%C2%B7%20CAE%20%C2%B7%20Product%20Development&descAlignY=60&descSize=17&descColor=c8b6e2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,9D4EDD,5C2D91&height=210&section=header&text=Aryan%20Desai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%20Engineering%20R%26D%20%7C%20CAD%20%C2%B7%20CAE%20%C2%B7%20Product%20Development&descAlignY=60&descSize=17&descColor=c8b6e2" width="100%"/>
 
 </div>
 
@@ -22,18 +22,17 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanshinde.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanshinde)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.shinde@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanshinde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-desai-999bbb283/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryandesaimk42@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMD1O1)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryanshinde&label=Profile%20Views&color=6A0DAD&style=flat-square)
-![Followers](https://img.shields.io/github/followers/aryanshinde?label=Followers&style=flat-square&color=4B0082&logo=github)
-![Stars](https://img.shields.io/github/stars/aryanshinde?label=Total%20Stars&style=flat-square&color=7B2FBE&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=AMD1O1&label=Profile%20Views&color=6A0DAD&style=flat-square)
+![Followers](https://img.shields.io/github/followers/AMD1O1?label=Followers&style=flat-square&color=4B0082&logo=github)
+![Stars](https://img.shields.io/github/stars/AMD1O1?label=Total%20Stars&style=flat-square&color=7B2FBE&logo=github)
 
 </div>
 
@@ -43,7 +42,7 @@
 
 ## ◈ About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshinde&layout=donut&theme=midnight-purple&hide_border=true&langs_count=6&title_color=9D4EDD&text_color=c8b6e2&bg_color=0d1117"/>
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMD1O1&layout=donut&theme=midnight-purple&hide_border=true&langs_count=6&title_color=9D4EDD&text_color=c8b6e2&bg_color=0d1117"/>
 
 I am a **Mechanical Engineering student** and **Engineering R&D enthusiast** with a deep commitment to the intersection of rigorous engineering science and modern computational tools. My work lives at the boundary between traditional mechanical engineering disciplines and the new generation of automation, simulation, and AI-driven design workflows.
 
@@ -58,10 +57,10 @@ I am driven by problems with real engineering consequence: designing structures 
 **Open To:**
 
 ![Engineering Internships](https://img.shields.io/badge/Engineering%20Internships-6A0DAD?style=flat-square)
-![R%26D Roles](https://img.shields.io/badge/R%26D%20Roles-4B0082?style=flat-square)
-![Product%20Development](https://img.shields.io/badge/Product%20Development-7B2FBE?style=flat-square)
-![CAD%20%2F%20CAE%20Projects](https://img.shields.io/badge/CAD%20%2F%20CAE%20Projects-9D4EDD?style=flat-square)
-![Research%20Collaboration](https://img.shields.io/badge/Research%20Collaboration-5C2D91?style=flat-square)
+![R&D Roles](https://img.shields.io/badge/R%26D%20Roles-4B0082?style=flat-square)
+![Product Development](https://img.shields.io/badge/Product%20Development-7B2FBE?style=flat-square)
+![CAD / CAE Projects](https://img.shields.io/badge/CAD%20%2F%20CAE%20Projects-9D4EDD?style=flat-square)
+![Research Collaboration](https://img.shields.io/badge/Research%20Collaboration-5C2D91?style=flat-square)
 
 <br clear="right"/>
 
@@ -96,8 +95,6 @@ I am driven by problems with real engineering consequence: designing structures 
 
 **CAD — Computer-Aided Design**
 
-[![CAD](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
-
 ![CATIA V5](https://img.shields.io/badge/CATIA%20V5-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
@@ -112,11 +109,19 @@ I am driven by problems with real engineering consequence: designing structures 
 
 **Programming & Computation**
 
-[![Programming](https://skillicons.dev/icons?i=python,matlab,cpp,git,linux,vscode,github,bash&theme=dark)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=python,cpp,git,linux,vscode,github,bash&theme=dark)](https://skillicons.dev)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Engineering Data & Automation**
 
-[![Engineering Tools](https://skillicons.dev/icons?i=numpy,opencv,jupyter,postgres&theme=dark)](https://skillicons.dev)
+[![Data Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda&theme=dark)](https://skillicons.dev)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Manufacturing & Fabrication**
 
@@ -183,7 +188,7 @@ A fully constrained, error-free CATIA V5 wing assembly with rib-spar skeleton, c
 | **Analysis** | Geometry validation, wall thickness checks, structural topology review |
 | **Engineering Standards** | Aerospace structural design conventions, GD&T for skin panels |
 | **Applications** | Aerospace R&D, structural simulation preprocessing, CAD portfolio |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/aryanshinde/catia-aircraft-wing) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/AMD1O1) |
 
 </div>
 
@@ -220,7 +225,7 @@ A dimensionally accurate, analytically validated planetary gearbox assembly with
 | **Analysis** | Bending stress, contact stress, shaft deflection, bearing dynamic load rating |
 | **Engineering Standards** | AGMA gear standards, IS shaft tolerances, ISO bearing nomenclature |
 | **Applications** | Automotive transmissions, industrial drives, robotics, aerospace actuators |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/aryanshinde/planetary-gearbox) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/AMD1O1) |
 
 </div>
 
@@ -257,7 +262,7 @@ A documented Python engineering toolkit with 40+ calculation functions across 8 
 | **Analysis** | Stress, deflection, factor of safety, heat transfer coefficients, efficiency |
 | **Engineering Standards** | SI units throughout; references to Shigley's, Cengel & Boles, IS standards |
 | **Applications** | Student design projects, rapid feasibility calculations, engineering education |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/aryanshinde/engineering-calculator) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/AMD1O1) |
 
 </div>
 
@@ -294,7 +299,7 @@ Batch generation of 500+ parametric model variants from a single specification. 
 | **Analysis** | Constraint satisfiability checks, geometry validation, dimensional verification |
 | **Engineering Standards** | IS 696 drawing standards, SPPU practical drawing conventions |
 | **Applications** | Engineering design automation, exam preparation, CAD portfolio generation |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/aryanshinde/cad-automation) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/AMD1O1) |
 
 </div>
 
@@ -331,7 +336,7 @@ A fully designed shell-and-tube heat exchanger meeting the target thermal duty, 
 | **Analysis** | Thermal duty, overall heat transfer coefficient, fouling factors, tube-side pressure drop |
 | **Engineering Standards** | ASME VIII (shell pressure rating reference), TEMA heat exchanger nomenclature |
 | **Applications** | Process engineering, automotive cooling, HVAC, power plant thermal systems |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/aryanshinde/heat-exchanger-design) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/AMD1O1) |
 
 </div>
 
@@ -368,7 +373,7 @@ A structured engineering reference library covering 8 core mechanical engineerin
 | **Analysis** | Formula validation against textbook solutions, peer review |
 | **Engineering Standards** | SPPU syllabus alignment; references to Shigley's, Cengel, White, Rattan |
 | **Applications** | Exam preparation, engineering reference, peer learning, open source education |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/aryanshinde/engineering-notes) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/AMD1O1) |
 
 </div>
 
@@ -484,15 +489,15 @@ Pursuing a Bachelor of Engineering in Mechanical Engineering at an SPPU-affiliat
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=aryanshinde&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=9D4EDD&icon_color=7B2FBE&text_color=c8b6e2&bg_color=0d1117"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AMD1O1&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=9D4EDD&icon_color=7B2FBE&text_color=c8b6e2&bg_color=0d1117"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshinde&layout=compact&theme=midnight-purple&hide_border=true&title_color=9D4EDD&text_color=c8b6e2&bg_color=0d1117&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMD1O1&layout=compact&theme=midnight-purple&hide_border=true&title_color=9D4EDD&text_color=c8b6e2&bg_color=0d1117&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=aryanshinde&theme=midnight-purple&hide_border=true&background=0d1117&ring=9D4EDD&fire=7B2FBE&currStreakLabel=c8b6e2&sideLabels=c8b6e2&currStreakNum=9D4EDD&sideNums=7B2FBE&dates=6A6A8A" width="58%"/>
+<img src="https://streak-stats.demolab.com/?user=AMD1O1&theme=midnight-purple&hide_border=true&background=0d1117&ring=9D4EDD&fire=7B2FBE&currStreakLabel=c8b6e2&sideLabels=c8b6e2&currStreakNum=9D4EDD&sideNums=7B2FBE&dates=6A6A8A" width="58%"/>
 
 </div>
 
@@ -502,7 +507,7 @@ Pursuing a Bachelor of Engineering in Mechanical Engineering at an SPPU-affiliat
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aryanshinde&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AMD1O1&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -512,7 +517,7 @@ Pursuing a Bachelor of Engineering in Mechanical Engineering at an SPPU-affiliat
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanshinde&bg_color=0d1117&color=9D4EDD&line=7B2FBE&point=c8b6e2&area=true&area_color=4B0082&hide_border=true&custom_title=Engineering%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMD1O1&bg_color=0d1117&color=9D4EDD&line=7B2FBE&point=c8b6e2&area=true&area_color=4B0082&hide_border=true&custom_title=Engineering%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -523,9 +528,9 @@ Pursuing a Bachelor of Engineering in Mechanical Engineering at an SPPU-affiliat
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanshinde/aryanshinde/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanshinde/aryanshinde/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aryanshinde/aryanshinde/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -599,13 +604,11 @@ Working as an Engineering R&D specialist contributing to the design and analysis
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.shinde@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryandesaimk42@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanshinde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-desai-999bbb283/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanshinde)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanshinde.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMD1O1)
 
 </div>
 
