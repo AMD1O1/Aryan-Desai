@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,9D4EDD,5C2D91&height=210&section=header&text=Aryan%20Desai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%20Engineering%20R%26D%20%7C%20CAD%20%C2%B7%20CAE%20%C2%B7%20Product%20Development&descAlignY=60&descSize=17&descColor=c8b6e2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=210&section=header&text=Aryan%20Desai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%20Engineering%20R%26D%20%7C%20CAD%20%C2%B7%20CAE%20%C2%B7%20Product%20Development&descAlignY=60&descSize=17&descColor=c8b6e2" width="100%"/>
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ## ◈ About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMD1O1&layout=donut&theme=midnight-purple&hide_border=true&langs_count=6&title_color=9D4EDD&text_color=c8b6e2&bg_color=0d1117"/>
+<img align="right" width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AMD1O1&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&title_color=9D4EDD&text_color=c8b6e2&bg_color=0d1117"/>
 
 I am a **Mechanical Engineering student** and **Engineering R&D enthusiast** with a deep commitment to the intersection of rigorous engineering science and modern computational tools. My work lives at the boundary between traditional mechanical engineering disciplines and the new generation of automation, simulation, and AI-driven design workflows.
 
@@ -489,9 +489,9 @@ Pursuing a Bachelor of Engineering in Mechanical Engineering at an SPPU-affiliat
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AMD1O1&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=9D4EDD&icon_color=7B2FBE&text_color=c8b6e2&bg_color=0d1117"/>
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AMD1O1&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=9D4EDD&icon_color=7B2FBE&text_color=c8b6e2&bg_color=0d1117"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMD1O1&layout=compact&theme=midnight-purple&hide_border=true&title_color=9D4EDD&text_color=c8b6e2&bg_color=0d1117&langs_count=8"/>
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AMD1O1&layout=compact&theme=midnight-purple&hide_border=true&title_color=9D4EDD&text_color=c8b6e2&bg_color=0d1117&langs_count=8"/>
 
 </div>
 
@@ -507,7 +507,7 @@ Pursuing a Bachelor of Engineering in Mechanical Engineering at an SPPU-affiliat
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AMD1O1&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AMD1O1&theme=onedark&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -528,9 +528,9 @@ Pursuing a Bachelor of Engineering in Mechanical Engineering at an SPPU-affiliat
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMD1O1/AMD1O1/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMD1O1/AMD1O1/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AMD1O1/AMD1O1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -618,6 +618,6 @@ Working as an Engineering R&D specialist contributing to the design and analysis
 
 *"Engineering is not about having the right answers — it is about asking the right questions with enough precision that the right answers become inevitable."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD,7B2FBE,4B0082,6A0DAD,5C2D91&height=130&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,18,12,6&height=130&section=footer&reversal=true" width="100%"/>
 
 </div>
