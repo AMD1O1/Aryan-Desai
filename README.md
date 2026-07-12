@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6A0DAD,4B0082,7B2FBE,9D4EDD,5C2D91&amp;height=210&amp;section=header&amp;text=Aryan%20Desai&amp;fontSize=62&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Mechanical%20Engineer%20%7C%20Engineering%20R%26D%20%7C%20CAD%20%C2%B7%20CAE%20%C2%B7%20Product%20Development&amp;descAlignY=60&amp;descSize=17&amp;descColor=c8b6e2" width="100%"/>
-
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,9D4EDD,5C2D91&height=210&section=header&text=Aryan%20Desai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%20Engineering%20R%26D%20%7C%20CAD%20%C2%B7%20CAE%20%C2%B7%20Product%20Development&descAlignY=60&descSize=17&descColor=c8b6e2)
 
 <div align="center">
 
@@ -168,7 +164,7 @@ Replicating the internal structural topology of an aircraft wing in a parametric
 
 **Engineering Solution**
 
-The wing was modeled using CATIA Generative Shape Design and Part Design workbenches. A root-to-tip lofting strategy was applied for the skin surfaces, with structural ribs positioned along the wingspan at aerodynamically and structurally appropriate intervals. Spar geometry was defined by reference planes aligned to the wing sweep angle, with all features fully constrained and parametrically driven from a master parameter set.
+The wing was modeled using CATIA Generative Shape Design and Part Design workbenches. A root-to-tip lofting strategy was applied for the skin surfaces, with structural ribs positioned along the wingspan at aerodynamically and structurally appropriate intervals. Spar geometry was defined by reference planes aligned to the wing sweep angle, fully constrained and parametrically driven from a master parameter set.
 
 **Results**
 
@@ -201,7 +197,7 @@ A fully parametric planetary gearbox designed from first principles of machine d
 
 **Engineering Challenge**
 
-Planetary gearboxes concentrate multiple gear mesh interfaces into a compact envelope, creating complex load sharing and misalignment sensitivities that must be accounted for at the design stage. The challenge was to size all components analytically before constructing the 3D model.
+Planetary gearboxes concentrate multiple gear mesh interfaces into a compact envelope, creating complex load sharing and misalignment sensitivities. The challenge was to size all components analytically — sun gear, planet gears, ring gear, carrier, shafts, and bearings — before constructing the 3D model.
 
 **Engineering Solution**
 
@@ -215,7 +211,7 @@ A dimensionally accurate, analytically validated planetary gearbox assembly with
 
 | Attribute | Detail |
 |:---|:---|
-| **Software** | SolidWorks, MATLAB (gear calculations), Excel |
+| **Software** | SolidWorks, MATLAB for gear calculations, Excel |
 | **Methods** | Lewis equation, Hertz contact, shaft design under combined loads, bearing life |
 | **Analysis** | Bending stress, contact stress, shaft deflection, bearing dynamic load rating |
 | **Standards** | AGMA gear standards, IS shaft tolerances, ISO bearing nomenclature |
@@ -275,11 +271,11 @@ A Python-based automation layer interfacing with CATIA V5 and SolidWorks scripti
 
 **Engineering Challenge**
 
-Generating many near-identical models with controlled parametric variation by hand in CAD is error-prone, time-consuming, and produces no audit trail. The challenge was to encode the correct modeling sequence into a Python script that could reproduce any valid geometry from a specification file alone.
+Generating many near-identical models with controlled parametric variation by hand in CAD is error-prone and time-consuming. The challenge was to encode the correct modeling sequence into a Python script that could reproduce any valid geometry from a specification file alone.
 
 **Engineering Solution**
 
-The suite exposes a declarative YAML spec format for describing sketch geometry, feature sequences, and dimension tables. The Python runtime translates these specs into sequential COM API calls, applying constraints, extruding features, and generating 2D drawings with annotations.
+The suite exposes a declarative YAML spec format for describing sketch geometry, feature sequences, and dimension tables. The Python runtime translates these into sequential COM API calls against CATIA V5 or SolidWorks, applying constraints, extruding features, and generating 2D drawings with annotations.
 
 **Results**
 
@@ -316,7 +312,7 @@ Heat exchanger design involves coupled thermal and mechanical constraints: the t
 
 **Engineering Solution**
 
-The thermal design used LMTD correction factor analysis. Tube-side and shell-side heat transfer coefficients were calculated using Dittus-Boelter and Bell-Delaware methods. Tube wall thickness was set by ASME pressure vessel guidelines. A Python script swept tube diameter and baffle spacing to map the design space.
+The thermal design used LMTD correction factor analysis. Tube-side and shell-side heat transfer coefficients were calculated using Dittus-Boelter and Bell-Delaware methods respectively. A Python script swept tube diameter and baffle spacing to map the design space.
 
 **Results**
 
@@ -329,7 +325,7 @@ A fully designed shell-and-tube heat exchanger meeting the target thermal duty, 
 | **Software** | Python (NumPy, Matplotlib), SolidWorks, Excel |
 | **Methods** | LMTD method, NTU-effectiveness, Dittus-Boelter, Bell-Delaware, pressure drop |
 | **Analysis** | Thermal duty, overall heat transfer coefficient, fouling factors, pressure drop |
-| **Standards** | ASME VIII (shell pressure rating reference), TEMA nomenclature |
+| **Standards** | ASME VIII shell pressure rating reference, TEMA nomenclature |
 | **Applications** | Process engineering, automotive cooling, HVAC, power plant thermal systems |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/AMD1O1) |
 
@@ -345,15 +341,15 @@ A fully designed shell-and-tube heat exchanger meeting the target thermal duty, 
 
 **Project Overview**
 
-A curated, version-controlled repository of structured engineering notes, derivations, solved examples, and formula references across core mechanical engineering subjects — designed as a living technical reference built throughout an undergraduate degree.
+A curated, version-controlled repository of structured engineering notes, derivations, solved examples, and formula references across core mechanical engineering subjects — a living technical reference built throughout an undergraduate degree.
 
 **Engineering Challenge**
 
-Engineering knowledge accumulated across four years of undergraduate study is rarely organized to support rapid retrieval or cross-subject synthesis. The challenge was to create a structured documentation system that captures not just formulas but the reasoning behind derivations and the engineering judgment required to apply them.
+Engineering knowledge accumulated across four years of undergraduate study is rarely organized to support rapid retrieval or cross-subject synthesis. The challenge was to create a structured documentation system capturing not just formulas but the reasoning behind derivations and the judgment required to apply them.
 
 **Engineering Solution**
 
-Notes cover: Mechanics of Materials, Machine Design, Fluid Mechanics, Thermodynamics, Heat Transfer, Manufacturing Processes, Theory of Machines, and Engineering Mathematics. Each section follows a consistent structure: theory, derivation, assumptions, solved example, and engineering application.
+Notes cover: Mechanics of Materials, Machine Design, Fluid Mechanics, Thermodynamics, Heat Transfer, Manufacturing Processes, Theory of Machines, and Engineering Mathematics. Each section follows: theory, derivation, assumptions, solved example, and engineering application.
 
 **Results**
 
@@ -363,7 +359,7 @@ A structured engineering reference library covering 8 core subjects with 200+ pa
 
 | Attribute | Detail |
 |:---|:---|
-| **Software** | Markdown, LaTeX (equations), GitHub, Jupyter Notebooks |
+| **Software** | Markdown, LaTeX for equations, GitHub, Jupyter Notebooks |
 | **Methods** | Structured documentation, derivation-first approach, cross-referencing |
 | **Analysis** | Formula validation against textbook solutions, peer review |
 | **Standards** | SPPU syllabus alignment; references to Shigley's, Cengel, White, Rattan |
@@ -391,7 +387,7 @@ A structured engineering reference library covering 8 core subjects with 200+ pa
 | **Digital Twin** | Physics-based virtual models, real-time sensor integration, predictive maintenance frameworks |
 | **Engineering AI** | Machine learning for material property prediction, surrogate modeling, AI-assisted design optimization |
 | **Engineering Simulation** | High-fidelity FEA/CFD, multi-physics coupling, mesh adaptivity, validation and verification |
-| **Advanced Manufacturing** | Additive manufacturing process-structure-property relationships, hybrid manufacturing, topology optimization |
+| **Advanced Manufacturing** | Additive manufacturing, hybrid manufacturing, topology optimization |
 | **EV Technology** | Electric powertrain mechanical integration, lightweight chassis, thermal-structural coupling in EVs |
 
 </div>
@@ -452,11 +448,11 @@ Pursuing a Bachelor of Engineering in Mechanical Engineering at an SPPU-affiliat
 
 **Dassault Systemes**
 
-[![CATIA Certification](https://img.shields.io/badge/CATIA%20V5%20Foundation-005386?style=for-the-badge&logoColor=white)](https://www.3ds.com)
+[![CATIA V5 Foundation](https://img.shields.io/badge/CATIA%20V5%20Foundation-005386?style=for-the-badge&logoColor=white)](https://www.3ds.com)
 
 **Autodesk**
 
-[![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360%20Certified-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/certification)
+[![Autodesk Fusion 360 Certified](https://img.shields.io/badge/Autodesk%20Fusion%20360%20Certified-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/certification)
 
 > Additional certifications will be listed here as they are completed.
 
@@ -482,46 +478,29 @@ Pursuing a Bachelor of Engineering in Mechanical Engineering at an SPPU-affiliat
 
 ## ◈ GitHub Analytics
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMD1O1&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=9D4EDD&icon_color=7B2FBE&text_color=c8b6e2&bg_color=0d1117)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMD1O1&layout=compact&theme=midnight-purple&hide_border=true&title_color=9D4EDD&text_color=c8b6e2&bg_color=0d1117&langs_count=8)
 
 ![Streak](https://streak-stats.demolab.com/?user=AMD1O1&theme=midnight-purple&hide_border=true&background=0d1117&ring=9D4EDD&fire=7B2FBE&currStreakLabel=c8b6e2&sideLabels=c8b6e2&currStreakNum=9D4EDD&sideNums=7B2FBE&dates=6A6A8A)
-
-</div>
 
 ---
 
 ## ◈ GitHub Trophies
 
-<div align="center">
-
 [![Trophies](https://github-profile-trophy.vercel.app/?username=AMD1O1&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
 ## ◈ Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMD1O1&bg_color=0d1117&color=9D4EDD&line=7B2FBE&point=c8b6e2&area=true&area_color=4B0082&hide_border=true&custom_title=Engineering%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMD1O1&bg_color=0d1117&color=9D4EDD&line=7B2FBE&point=c8b6e2&area=true&area_color=4B0082&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## ◈ Contribution Snake
 
-<div align="center">
-
 ![Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</div>
 
 ---
 
@@ -606,6 +585,6 @@ Working as an Engineering R&D specialist contributing to the design and analysis
 
 *"Engineering is not about having the right answers — it is about asking the right questions with enough precision that the right answers become inevitable."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=9D4EDD,7B2FBE,4B0082,6A0DAD,5C2D91&amp;height=130&amp;section=footer&amp;reversal=true" width="100%"/>
-
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=9D4EDD,7B2FBE,4B0082,6A0DAD,5C2D91&height=130&section=footer&reversal=true)
